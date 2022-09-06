@@ -1,0 +1,21 @@
+name: onboard_binary
+description: A sample command-line application.
+version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.17.6 <3.0.0'
+
+# dependencies:
+#   path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
+
+dependencies:
+  args: ^2.3.1
+  at_client: ^3.0.37
+  at_onboarding_cli: ^1.1.1
+  convert: ^3.0.2
+  http: ^0.13.5
