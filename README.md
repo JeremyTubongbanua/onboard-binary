@@ -6,6 +6,8 @@ Onboard your atSigns easily with the onboard-binary. Just download the binary (v
 ./onboard --atsign "@smoothalligator" --email "jeremy.tubongbanua@atsign.com" -v
 ```
 
+Once ran successfully, your keys will be in your home directory under `~/.atsign/keys/`
+
 ## Usage
 
 | Option | Mandatory | Description | Example |
